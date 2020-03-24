@@ -1,5 +1,5 @@
 # project0
-CS50 project0
+##CS50 project0
 
 This project has 4 four html files. One mainfile, index.html and 3 additional pages with three themes. 
 In addition there is a SASS and a CSS file, as well as one image file. All the files use media queries to adapt the response to the user based on the device screen size. The project uses bootstrap. 
