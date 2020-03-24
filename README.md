@@ -15,3 +15,5 @@ In addition there is a SASS and a CSS file, as well as one image file. All the f
 All the navigation menus use bootstrap grid model and the container-fluid class from bootstrap. 
 All files use media queries to change the title of the page based on the screen size of the user device.
 SCSS variables are used to define the card colors (regular and highlighted) in the finance.html file.  
+
+[link to youtube video](https://youtu.be/PLj3Pp-rkGI)
