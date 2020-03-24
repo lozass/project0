@@ -19,29 +19,15 @@ td {
   background-color: lightgray;
 }
 
-.navmenu, .navhome {
-  margin: 20px;
+.navmenu {
+  margin: 40px;
 }
 
-.navhome {
-  color: red;
-}
-
-ul li {
-  margin: 10px;
-  font-size: 18px;
-}
-
-.mycard, .myredcard {
+.mycard {
   background-color: teal;
   color: white;
   margin: 5px;
   padding: 20px;
-}
-
-.myredcard {
-  color: red;
-  background-color: lightgray;
 }
 
 #index {
@@ -53,5 +39,6 @@ ul li {
     background-color: lightblue;
   }
 }
+/*# sourceMappingURL=index.css.map */
 
 /*# sourceMappingURL=index.css.map */
